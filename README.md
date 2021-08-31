@@ -1,1 +1,1 @@
-# This is program which is useless
+# This program is useless
